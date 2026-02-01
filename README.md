@@ -58,3 +58,50 @@ weather-web/
    ```js
    const apiKey = "YOUR_API_KEY_HERE";
 
+▶️ How to Run the Project Locally
+
+Clone the repository:
+
+git clone https://github.com/JITENDRAGAHERWAR03/weather-web.git
+
+
+Open the project folder:
+
+cd weather-web
+
+
+Open index.html in your browser
+(No server required)
+
+📸 Screenshots
+
+Add screenshots of your app UI here
+(Recommended: Home page + search result)
+
+🎯 Learning Outcomes
+
+API integration using JavaScript
+
+DOM manipulation
+
+Handling user input
+
+Fetch API & async/await
+
+Frontend project structuring
+
+🙌 Author
+
+Jitendra Gaherwar
+B.Tech IT | Data & AI Developer
+GitHub: @JITENDRAGAHERWAR03
+
+⭐ Support
+
+If you like this project:
+
+Give it a ⭐ on GitHub
+
+Fork it
+
+Improve it & make a PR
