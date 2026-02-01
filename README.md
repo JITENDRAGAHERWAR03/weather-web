@@ -70,11 +70,12 @@ cd weather-web
 ```
 Open index.html in your browser
 (No server required)
+
 ---
 📸 Screenshots
 
-Add screenshots of your app UI here
-(Recommended: Home page + search result)
+<img width="506" height="439" alt="image" src="https://github.com/user-attachments/assets/3380f9bc-0452-4877-8847-a365adf5a931" />
+
 
 ---
 🎯 Learning Outcomes
