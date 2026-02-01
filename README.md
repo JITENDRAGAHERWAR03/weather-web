@@ -28,4 +28,12 @@ Built using **HTML, CSS, and JavaScript**, this project is beginner-friendly and
 ---
 
 ## 📂 Project Structure
-
+```
+weather-web/
+│
+├── index.html # Main HTML file
+├── style.css # CSS for styling
+├── script.js # JavaScript logic & API calls
+└── README.md # Project documentation
+```
+---
