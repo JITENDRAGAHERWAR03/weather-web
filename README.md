@@ -38,8 +38,6 @@ weather-web/
 ```
 ---
 
----
-
 ## ⚙️ How It Works
 
 1. User enters a **city name**
@@ -57,27 +55,28 @@ weather-web/
 2. Open `script.js` and add your API key:
    ```js
    const apiKey = "YOUR_API_KEY_HERE";
-
+---
 ▶️ How to Run the Project Locally
 
 Clone the repository:
-
+```
 git clone https://github.com/JITENDRAGAHERWAR03/weather-web.git
-
+```
 
 Open the project folder:
-
+```
 cd weather-web
 
-
+```
 Open index.html in your browser
 (No server required)
-
+---
 📸 Screenshots
 
 Add screenshots of your app UI here
 (Recommended: Home page + search result)
 
+---
 🎯 Learning Outcomes
 
 API integration using JavaScript
@@ -90,12 +89,14 @@ Fetch API & async/await
 
 Frontend project structuring
 
+---
 🙌 Author
 
 Jitendra Gaherwar
 B.Tech IT | Data & AI Developer
 GitHub: @JITENDRAGAHERWAR03
 
+---
 ⭐ Support
 
 If you like this project:
