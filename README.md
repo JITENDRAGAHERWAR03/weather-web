@@ -37,3 +37,24 @@ weather-web/
 └── README.md # Project documentation
 ```
 ---
+
+---
+
+## ⚙️ How It Works
+
+1. User enters a **city name**
+2. JavaScript sends a request to the **Weather API**
+3. API returns real-time weather data
+4. Weather details are displayed dynamically on the webpage
+
+---
+
+## 🔑 API Setup (Important)
+
+1. Get a free API key from:
+   - https://openweathermap.org/api (or your chosen weather API)
+
+2. Open `script.js` and add your API key:
+   ```js
+   const apiKey = "YOUR_API_KEY_HERE";
+
